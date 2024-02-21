@@ -18,8 +18,8 @@ const manifestPath = path.resolve(
 
 const manifest = isDev
   ? {
-      'main.js': '/juley/assets/main.js',
-      'main.css': '/juley/assets/main.css',
+      'main.js': '/assets/main.js',
+      'main.css': '/assets/main.css',
     }
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 

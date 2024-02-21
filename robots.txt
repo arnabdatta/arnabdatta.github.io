@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://arnabdatta.github.io/juley//sitemap.xml
+Sitemap: https://arnabdatta.github.io//sitemap.xml

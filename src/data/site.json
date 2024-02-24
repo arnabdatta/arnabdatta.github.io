@@ -4,7 +4,7 @@
   "url": "https://arnabdatta.github.io/",
   "author": {
     "name": "Arnab Datta",
-    "email": "author@site.com",
+    "email": "arnabdatta3@gmail.com",
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
@@ -23,12 +23,12 @@
   "socialLinks": [
     {
       "text": "Instagram",
-      "url": "https://instagram.com/",
+      "url": "https://www.instagram.com/arnabdatta/",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/arnabdatta",
       "external": true
     },
     {

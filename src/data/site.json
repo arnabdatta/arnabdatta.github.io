@@ -1,6 +1,6 @@
 {
-  "name": "Juley from Arnab",
-  "description": "Arnab Thoughts",
+  "name": "Arnab",
+  "description": "Arnab's World",
   "url": "https://arnabdatta.github.io/",
   "author": {
     "name": "Arnab Datta",
@@ -32,8 +32,13 @@
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/arnab-datta-1bbab215/",
+      "external": true
+    },
+    {
+      "text": "Buy Me a Pizza Slice",
+      "url": "https://www.buymeacoffee.com/arnabdatta",
       "external": true
     }
   ],

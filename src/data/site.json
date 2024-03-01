@@ -8,6 +8,73 @@
     "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
+  "headerSongs": [
+    {
+      "text": "Rockey Mountain High",
+      "artist": "John Denver",
+      "image": ""
+    },
+    {
+      "text": "Sunflower (Spider-Man)",
+      "artist": "Post Malone and Swae Lee",
+      "image": ""
+    },
+    {
+      "text": "Night Changes",
+      "artist": "One Direction",
+      "image": ""
+    },
+    {
+      "text": "Fireflies",
+      "artist": "Owl City",
+      "image": ""
+    },
+    {
+      "text": "With Or Without You",
+      "artist": "U2",
+      "image": ""
+    },
+    {
+      "text": "Just A Kiss",
+      "artist": "Lady A",
+      "image": ""
+    },
+    {
+      "text": "100 Years",
+      "artist": "Five For Fighting",
+      "image": ""
+    },
+    {
+      "text": "White Flag",
+      "artist": "Dido",
+      "image": ""
+    },
+    {
+      "text": "Perfect",
+      "artist": "Ed Sheeran",
+      "image": ""
+    },
+    {
+      "text": "We Don't Talk Anymore",
+      "artist": "Charlie Puth",
+      "image": ""
+    },
+    {
+      "text": "All We Ever Knew",
+      "artist": "The Head and the Heart ",
+      "image": ""
+    },
+    {
+      "text": "Who You Love",
+      "artist": "John Mayern",
+      "image": ""
+    },
+    {
+      "text": "Set Fire to the Rain",
+      "artist": "Adele",
+      "image": ""
+    }
+  ],
   "headerLinks": [
     {
       "text": "Blog",
@@ -39,6 +106,11 @@
     {
       "text": "Buy Me a Pizza Slice",
       "url": "https://www.buymeacoffee.com/arnabdatta",
+      "external": true
+    },
+    {
+      "text": "Flickr",
+      "url": "https://flickr.com/photos/arnabdatta",
       "external": true
     }
   ],

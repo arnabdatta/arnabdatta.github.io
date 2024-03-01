@@ -7,7 +7,7 @@ permalink: posts/{{ title | slug }}/index.html
 ---
 ## Image
 
-![That is the view of Mt. Kangchenzonga from Dzongri Top! We were feeling awe and amazed by the view.](..\images\blog\dzongri\DSC_0354.JPG)
+![That is the view of Mt. Kangchenzonga from Dzongri Top! We were feeling awe and amazed by the view.](https://arnabdatta.github.io/images/blog/dzongri/DSC_0067%20(1024x635).jpg)
 
 
 Some friends of mine and me were very much interested to go to a moderate trek. So we found out Dzongri top trek. It is a very popular but moderate level trek to Kangchenzonga base camp.
@@ -17,8 +17,6 @@ We didn't done much preparation for the trek. We were just very enthusiastic abo
 Here is the overall route of the whole trek (6 days).
 
 Reach NJP - NJP to Yuksom Village - Start trekking. Reach Bakhim / Tshoka - Reach Dzongri - Reach Dzongri top and back to Bakhim / Tshoka - Back to Yuksom - Back to NJP.
-
-
 
 
 Day 1:
